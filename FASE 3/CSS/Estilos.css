@@ -134,3 +134,14 @@ h3 {
     font-size: 2em;
     text-align: center;
 }
+.caja4 {
+    display: block;
+    padding: 0rem  15rem;
+    line-height: 2rem;
+    text-decoration: aqua;
+    text-align: center;
+}
+h4 {
+    color: rgb(235, 227, 215);
+    font-size: 1em;
+    text-align: center;
